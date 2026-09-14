@@ -1,0 +1,4 @@
+interface:
+  display_name: "agy Subagent"
+  short_description: "Delegate scoped Codex work to the local agy CLI"
+  default_prompt: "Use $agy-subagent to delegate this task to agy and verify the returned result."
